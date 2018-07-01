@@ -1,5 +1,5 @@
 # augmented_reality_with_mobile
-Playground for programming augmented reality with mobile
+Playground for programming augmented reality with mobile. **Trying to use mainly OpenCV, OpenGL and C++**.
 
 ## Start with:
 [ Very beautiful resource: Marker-less Augmented Reality by OpenCV, OpenGL and C++.](https://medium.com/@ahmetozlu93/marker-less-augmented-reality-by-opencv-and-opengl-531b2af0a130)
